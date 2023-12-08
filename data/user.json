@@ -1,0 +1,34 @@
+[
+    {
+        "username": "Agung",
+        "email": "agung@gmail.com",
+        "password": "12345",
+        "role": "Admin",
+        "phoneNumber": "085697797709",
+        "address": "Jl. F No.17 slipi jakarta Barat"
+    },
+    {
+        "username": "Juaini",
+        "email": "juaini@gmail.com",
+        "password": "12345",
+        "role": "guess",
+        "phoneNumber": "087855337783",
+        "address": "Pondok Indah city"
+    },
+    {
+        "username": "Abdur",
+        "email": "abdur@gmail.com",
+        "password": "12345",
+        "role": "guess",
+        "phoneNumber": "081867654345",
+        "address": "Jl. ggwp No.5 Tanggerang Selatan"
+    },
+    {
+        "username": "Boher",
+        "email": "boher@gmail.com",
+        "password": "12345",
+        "role": "guess",
+        "phoneNumber": "085677883357",
+        "address": "Jl. cinta no.10 rt:005 rw:003"
+    }
+]

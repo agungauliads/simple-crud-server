@@ -1,0 +1,44 @@
+[
+  {
+    "name": "laptop",
+    "color": "silver",
+    "price": 7000000,
+    "image": "link1#",
+    "userId": 1
+  },
+  {
+    "name": "TV",
+    "color": "black",
+    "price": 1500000,
+    "image": "link2#",
+    "userId": 1
+  },
+  {
+    "name": "smartphone",
+    "color": "white",
+    "price": 5000000,
+    "image": "link3#",
+    "userId": 2
+  },
+  {
+    "name": "headphone",
+    "color": "red",
+    "price": 2000000,
+    "image": "link4#",
+    "userId": 2
+  },
+  {
+    "name": "mouse",
+    "color": "blue",
+    "price": 500000,
+    "image": "link5#",
+    "userId": 3
+  },
+  {
+    "name": "smartwatch",
+    "color": "black",
+    "price": 3500000,
+    "image": "link6#",
+    "userId": 4
+  }
+]

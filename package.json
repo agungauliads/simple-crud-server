@@ -1,9 +1,10 @@
 {
-  "name": ".",
+  "name": "simplecrud",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "seed": "sequelize db:drop && sequelize-cli db:create && sequelize-cli db:migrate && sequelize-cli db:seed:all",
     "start": "nodemon src/index.js",
     "build": "node src/index.js"
   },
